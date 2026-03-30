@@ -78,12 +78,12 @@ p {
 }
 
 a {
-  color: #ff0000;
+  color: #a3d468;
   text-decoration: none;
   cursor: pointer;
 }
 a:hover, a:active {
-  color: #ff0000;
+  color: #a3d468;
 }
 
 img {
