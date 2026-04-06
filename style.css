@@ -141,7 +141,7 @@ img {
 }
 
 .main-content .left {
-  margin-top: 24px;
+  margin-top: 0px;
   flex: 2 1 0;
   min-width: 0;
 }
