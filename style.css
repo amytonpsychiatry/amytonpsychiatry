@@ -101,7 +101,7 @@ img {
   justify-content: space-between;
   gap: 24px;
   padding: 64px 24px 32px;
-  border-bottom: 3px groove #eee;
+  border-bottom: 6px groove #000;
   margin-bottom: 48px;
 }
 @media screen and (max-width: 640px) {
